@@ -1,18 +1,22 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+## 이 보일러팔레트는 기본적인 템플릿입니다.
 
-To use this application, 
+<br/>
+<br/>
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
+### 사용 방법
 
+## 1. clone 하기
 
-If you have problem, feel free to ask me ^^ 
+```bash
+git clone https://github.com/Dhyunlee/boiler-plate
+```
 
-You can watch the tutorial for this app.
+## 2. dependencies 들 설치
 
-https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
+ - 루트 폴더에서 server측에 필요한 dependencies 를 설치한 후,
+ - client 폴더에서 dependencies 설치하기
 
-
+```bash
+npm install
+yarn add
+```
